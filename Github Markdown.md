@@ -84,3 +84,11 @@ First Header | Second Header
 -------------| -------------
 Content from cell 1 | Content from cell2
 Content in the first column | Content in the second column
+
+## StrikeThrough
+~~~abc~~~
+~~~
+## Emoji
+👍
+https://wwww.webfx.com/tools/emoji-cheat-sheet/
+
