@@ -2065,7 +2065,7 @@
 (BMW i3 94Ah,BMW,Electric,0,없음,5.4,고속,0.0),
 (SM3 Z.E.,르노삼성,Electric,0,없음,4.5,고속,0.0),
 (SM3 Z.E.,르노삼성,Electric,0,없음,4.5,고속,0.0),
-(Model S P100D,테슬라,Electric,0,없음,3.8,고속,0.0
+(Model S P100D,테슬라,Electric,0,없음,3.8,고속,0.0)
 BMW i3 94Ah,BMW,Electric,0,없음,5.4,고속,0.0
 BMW i3 94Ah,BMW,Electric,0,없음,5.4,고속,0.0
 Model S 100D,테슬라,Electric,0,없음,4.0,고속,0.0
