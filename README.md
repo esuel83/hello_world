@@ -19,7 +19,7 @@ hello_world project
 
 [Github](https://github.com)
 
-![Github](https://github.com/images/logo/jpg)
+![Github](hPfGnN4eBzFWxJGw7Ic7zQEyDL.jpg)
 
 ### 신영복의 <담론>
 > 소비를 통하여 정체성을 만들어 낼 수 없다.
