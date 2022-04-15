@@ -1,0 +1,96 @@
+19강 Git & Github 실무활용 Github Insights, GraphQL
+
+Insights - 통계 정보
+
+Pulse
+-저장소 활동에 대한 개요
+
+Comparing changes
+-선택한 기간에 대한 커밋 비교
+-Files changed
+
+Contributors
+-프로젝트에 대한 상위 100명의 컨트리뷰터에 대한 개요
+-저장소의 기본 브랜치의 데이터를 통해 그래프가 생성되며 이 그래프는 시작부터 현재까지의 
+커밋을 설명한다.
+
+GraphQL
+-페이스북이 2012년 개발하여 2015년 공개한 데이터 질의어이다.
+-REST 및 부속 웹서비스 아키텍처를 대체할 수 있다.
+-클라이언트는 필요한 데이터 구조를 지정할 수 있으며 서버는 정확히 동일한 구조로 데이터를
+반환
+-GraphQL은 사용자가 어떤 데이터가 필요한지 명시할 수 있게 해 주는 강타입 언어
+-구조체를 통해 불필요한 데이터를 받게 되거나 필요한 데이터를 받지 못하는 문제를 피할 수 
+있다.
+
+A query language for your API
+-GraphQL is a query language for APIs and a runtime for fulfilling those pueries with your 
+existing data.
+-Graph'QL provides a complete and understandable descrption of the data in your API, gives 
+clients the power to ask for exactly what they need and nothig more, makes it easier to evolve
+ APIs over time, and enables powerful developer tools.
+
+Ask for what you need, get exactly that
+-Send a GraphQL query to your API and get exactly what you need, nothing more and nothing
+less.
+-GraphQL queries always return predictable results.
+-Apps using GraphQL are fast and stable because they control the data they get, not the server.
+
+GraphQL 예시           - 요청에 대한 결과
+```
+{
+  hero {
+     name
+     height
+     mass
+  }
+}
+
+{  
+   "hero" :  {
+      "name" :  "Luke Skywalker" ,
+      "height" :  1 . 72,
+      "mass" : 77
+   }
+}                                      ```
+
+Who's using GraphQL?
+-Facebook's mobile apps have been powered by GraphQL since 2192.
+-A GraphQL spec was open sourced in 2195 and is now available in many environments 
+and used by teams of all sizes.
+
+GitHub Developer
+-Build your app on GitHub's platform
+-Not sure where to start? We've together some handy guides and reference documentation
+you can use to start building.
+
+https://developer.github.com/
+-Intordectioin to GraphQL
+ Let's walk through the inner workings of our GraphQL API.
+-Forming API calls with GraphQL
+ In this section, we're going to focus on how to form a GraphQL API call.
+-Migrating from REST to GraphQL
+ We'll also help you explore the path to migrating from REST to GraphQL.
+-Building a GitHub App or an OAuth App
+ Choose GitHub Apps or OAuth Apps to get started developing an integration.
+
+See what others have built on GitHub
+-build with tools from GitHub Marketplace.
+Circle CI(Continuous Intergration) ZenHub(Project Management)
+Codecov(Code Quality) Rollbar(Monitoring) Codetree(Project Management)
+Appveyor(Continuous Interation)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
